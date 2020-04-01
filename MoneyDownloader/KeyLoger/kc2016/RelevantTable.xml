@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xamDataPresenter version="10.3.20103.1003" formatVersion="1,6">
+  <fieldLayouts>
+    <fieldLayout key="RevelevantTable" fieldList="¬кл./¬ыкл.;Boolean, ‘раза, –ел. страница по яндексу, –ел. страница по Google">
+      <fields>
+        <field name="¬кл./¬ыкл." extendedInfo="¬кл./¬ыкл.;Boolean" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="‘раза" extendedInfo="‘раза" cellWidthAuto="true" cellWidth="162.94333333333336" labelWidthAuto="true" labelWidth="162.94333333333336" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="–ел. страница по яндексу" extendedInfo="–ел. страница по яндексу" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="–ел. страница по Google" extendedInfo="–ел. страница по Google" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+      </fields>
+    </fieldLayout>
+  </fieldLayouts>
+</xamDataPresenter>

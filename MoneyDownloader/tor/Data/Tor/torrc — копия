@@ -1,0 +1,6 @@
+DataDirectory c:\tor\Data\Tor
+GeoIPFile c:\tor\Data\Tor\geoip
+GeoIPv6File c:\tor\Data\Tor\geoip6
+
+ControlPort 9051
+HashedControlPassword 16:C9B10A4E2F0AC853601764621CA34B8FBE3D6A02C60FA0A99B8829CE0D

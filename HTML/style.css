@@ -1,0 +1,26 @@
+a {
+	color:red;
+	font-size:32px;
+}
+div {
+	color:red;
+	background-color:gray;
+	border:1px solid black;
+	font-size:48px;
+	margin:10px;
+	padding:15px;
+}
+td {
+	color:lime;
+}
+#number {
+	color:blue;
+}
+
+.world {
+	color:red;
+}
+
+div:hover {
+	border:10px solid black;
+}

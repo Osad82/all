@@ -1,0 +1,50 @@
+<Menu>:
+	orientation: 'vertical'
+	BoxLayout:
+		orientation: 'vertical'
+		size_hint
+		Label:
+			text: 'Unsorted Bottles: {}%'.format(int(pbu.value))
+		ProgressBar:
+			id: pbu
+			value: 80
+
+	GridLayout:
+		cols: 3
+		BoxLayout:
+			orientation: 'vertical'
+			size_hint_x: .7
+			ProgressBar:
+				id: pbt
+				value: 80
+				size_hint_y: .05
+			Button:
+				text: 'Transparent'
+
+			ProgressBar:
+				id: pbbl
+				value: 80
+				size_hint_y: .05
+			Button:
+				text: 'Blue'
+				
+
+		Label:
+
+		BoxLayout:
+			orientation: 'vertical'
+			size_hint_x: .7
+			ProgressBar:
+				id: pbg
+				value: 80
+				size_hint_y: .05
+			Button:
+				text: 'Green'
+
+			ProgressBar:
+				id: pbbr
+				value: 80
+				size_hint_y: .05
+			Button:
+				text: 'Brown'
+		

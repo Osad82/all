@@ -1,0 +1,7 @@
+SOCKSPort 9050 CacheDNS UseDNSCache
+DataDirectory C:\MyProjects\GetMoney\tor\Data\Tor
+GeoIPFile C:\MyProjects\GetMoney\tor\Data\Tor\geoip
+GeoIPv6File C:\MyProjects\GetMoney\tor\Data\Tor\geoip6
+
+ControlPort 9051
+CookieAuthentication 1

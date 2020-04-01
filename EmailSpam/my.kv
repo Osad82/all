@@ -1,0 +1,51 @@
+<Container>:
+	cols: 3
+	spacing: 3
+	padding: 5
+
+	progress: progress
+	progress_value: progress_value
+
+	TextInput:
+		text: 'login:password'
+	BoxLayout:
+		orientation: 'vertical'
+		Label:
+			size_hint_y: .1
+			text: '0/0'
+			id: progress
+		ProgressBar:
+			size_hint_y: .1
+			value: 80
+			id: progress_value
+		Label:
+			size_hint_y: .1
+			text: 'Info:'
+		GridLayout:
+			size_hint_y: .2
+			cols: 2
+			Label:
+				text: 'load1_status'
+			Label:
+				text: 'ok'
+			Label:
+				text: 'load2_status'
+			Label:
+				text: 'ok'
+		Label:
+		Button:
+			size_hint_y: .3
+			text: 'Start'
+			on_press: root.thr()
+	TextInput:
+		text: 'email'
+	Button:
+		size_hint_y: .1
+		text: ''
+	Button:
+		size_hint_y: .1
+		text: 'Exit'
+		on_press: root.stop()
+	Button:
+		size_hint_y: .1
+		text: ''

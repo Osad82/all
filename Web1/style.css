@@ -1,0 +1,44 @@
+body {
+	background-image: url(imgs/back.jpg)
+}
+
+h1 {
+	border: 1px solid lime;
+	background-color: rgba(0, 200, 0, 0.4);
+	width: 300px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 50px;
+	padding: 15px;
+	box-shadow: 0px 0px 100px lime;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	border: 1px solid lime;
+	background-color: rgb(70, 70, 70);
+	width: 300px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-radius: 50px;
+	font-size: 32px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	font-size: 32px;
+	color: white;
+	text-align: center;
+}
+
+table {
+	border: 1px solid lime;
+	padding: 550px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	margin: auto
+}

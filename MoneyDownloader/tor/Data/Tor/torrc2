@@ -1,0 +1,7 @@
+SOCKSPort 9060 CacheDNS UseDNSCache
+DataDirectory c:\tor\Data\Tor
+GeoIPFile c:\tor\Data\Tor\geoip
+GeoIPv6File c:\tor\Data\Tor\geoip6
+
+ControlPort 9061
+CookieAuthentication 1

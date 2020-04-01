@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<PreferencesData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UseMainIPWithGooglePositions>true</UseMainIPWithGooglePositions>
+  <GooglePositionsThreadsQuantity>1</GooglePositionsThreadsQuantity>
+  <UseMainIPWithYandexPositions>true</UseMainIPWithYandexPositions>
+  <YandexPositionsThreadsQuantity>1</YandexPositionsThreadsQuantity>
+  <UseMainIPWithWordstat>true</UseMainIPWithWordstat>
+  <WordstatThreadsQuantity>1</WordstatThreadsQuantity>
+  <ExportFormat>xls</ExportFormat>
+  <AllowFilterRecords>true</AllowFilterRecords>
+  <AllowSummRecords>true</AllowSummRecords>
+  <PreferencesTabControl_1_LastSelectedIndex>1</PreferencesTabControl_1_LastSelectedIndex>
+  <PreferencesTabControl_2_LastSelectedIndex>0</PreferencesTabControl_2_LastSelectedIndex>
+  <PreferencesTabControl_3_LastSelectedIndex>2</PreferencesTabControl_3_LastSelectedIndex>
+  <CellVirtualizationMode>Recycle</CellVirtualizationMode>
+  <TableColumnSelectionMode>false</TableColumnSelectionMode>
+  <BadSymbolsFromWordsString>!-.+</BadSymbolsFromWordsString>
+  <RemoveBadSymbolsFromWords>true</RemoveBadSymbolsFromWords>
+  <DeleteFiltersOnNewProject>true</DeleteFiltersOnNewProject>
+  <PlaySoundOnParsed>false</PlaySoundOnParsed>
+  <ParseAllFuncPreferences>
+    <string>WSAllFreq</string>
+    <string>WSBaseFreq</string>
+    <string>WSQuoteFreq</string>
+    <string>WSQuotePointFreq</string>
+    <string>WSSeasonInfo</string>
+    <string>LIStats</string>
+  </ParseAllFuncPreferences>
+  <UseColorStyles>true</UseColorStyles>
+  <LIParseModeSelectedIndex>0</LIParseModeSelectedIndex>
+  <SuggestsGoogleGLParametr />
+  <SuggestsGoogleHLParametr>ru</SuggestsGoogleHLParametr>
+  <GoogleSuggestsSelectedDomain>0</GoogleSuggestsSelectedDomain>
+  <ParseGoogleSuggests>true</ParseGoogleSuggests>
+  <ParseYandexSuggests>true</ParseYandexSuggests>
+  <ParseRamblerSuggests>false</ParseRamblerSuggests>
+  <ParseMailSuggests>false</ParseMailSuggests>
+  <ParseNigmaSuggests>false</ParseNigmaSuggests>
+  <ParseYahooSuggests>false</ParseYahooSuggests>
+  <YandexXMLCodes />
+  <UseYandexXML>false</UseYandexXML>
+  <LowBoundOfBaseFreq>0</LowBoundOfBaseFreq>
+  <ParseOnlyCheckedRows>false</ParseOnlyCheckedRows>
+  <SeasonGraphicView>2</SeasonGraphicView>
+  <ScrollingMode>DeferredWithScrollTips</ScrollingMode>
+  <FilterPosition>LabelIcons</FilterPosition>
+  <SummaryInfoPosition>Bottom</SummaryInfoPosition>
+  <PartOccuranceRadioBtnIsChecked>true</PartOccuranceRadioBtnIsChecked>
+  <FullOccuranceRadioBtnIsChecked>false</FullOccuranceRadioBtnIsChecked>
+  <RecentOpenedFiles />
+  <QATTargetIDs>
+    <string>NewProjectBtn</string>
+    <string>LoadProjectBtn</string>
+    <string>SaveProjectBtn</string>
+    <string>SaveAsProjectBtn</string>
+    <string>ExportToXLSBtn</string>
+    <string>PreferencesBtn</string>
+    <string>UndoTool</string>
+    <string>RedoTool</string>
+  </QATTargetIDs>
+  <UseColoringInExport>true</UseColoringInExport>
+  <OpenExportFile>false</OpenExportFile>
+  <HideRowsBySearch>false</HideRowsBySearch>
+  <MinimizeToTray>false</MinimizeToTray>
+  <AutoHideCaptcha>false</AutoHideCaptcha>
+  <AddColumnCaptionsToBuffer>false</AddColumnCaptionsToBuffer>
+  <CopyAllDataToBuffer>false</CopyAllDataToBuffer>
+  <MaxPositionToParse>30</MaxPositionToParse>
+  <GoogleQueryHLParametr />
+  <GoogleQueryLRParametr />
+  <GoogleQueryCRParametr />
+  <AddToGoogleQueryHLParametr>false</AddToGoogleQueryHLParametr>
+  <GoogleSelectedDomain>0</GoogleSelectedDomain>
+  <QuoteQueryToSE>false</QuoteQueryToSE>
+  <QuoteQueryToSERelevant>false</QuoteQueryToSERelevant>
+  <KEIFormula>({WordstatBaseFreq} / 2) * ({WordstatBaseFreq} / 2) / {YandexCompetitors}</KEIFormula>
+  <KEIFormula2>({WordstatBaseFreq} / 2) * ({WordstatBaseFreq} / 2) / {YandexCompetitors}</KEIFormula2>
+  <ManualRegionByIP>false</ManualRegionByIP>
+  <RegionForYandexSearch>0</RegionForYandexSearch>
+  <WordstatStartXPosition>701</WordstatStartXPosition>
+  <WordstatStartYPosition>60</WordstatStartYPosition>
+  <StopWordsStartXPosition>200</StopWordsStartXPosition>
+  <StopWordsStartYPosition>200</StopWordsStartYPosition>
+  <UseAntigate>false</UseAntigate>
+  <AntigateKey />
+  <AddStopWordsDataToQuery>false</AddStopWordsDataToQuery>
+  <AddSumLine>false</AddSumLine>
+  <PersentRate>1</PersentRate>
+  <FontSize>12</FontSize>
+  <LoadAutoSave>false</LoadAutoSave>
+  <DeleteDialog>false</DeleteDialog>
+  <ExitDialog>true</ExitDialog>
+  <ClearDialog>true</ClearDialog>
+  <SPLogin />
+  <SPPwd />
+  <SPRegion>1783</SPRegion>
+  <SPURL />
+  <SPProjectName />
+  <SPMainSE>0</SPMainSE>
+  <SPTOP>2</SPTOP>
+  <SPParseAnchorQuantity>true</SPParseAnchorQuantity>
+  <RKLogin />
+  <RKPwd />
+  <RKProjectID />
+  <RKTOP>3</RKTOP>
+  <YDMode>0</YDMode>
+  <YDQuoteQuery>false</YDQuoteQuery>
+  <MILogin />
+  <MIPwd />
+  <MIURL>http://</MIURL>
+  <WERegion>315</WERegion>
+  <WEURL />
+  <WELogin />
+  <WEPwd />
+  <WETOP>3</WETOP>
+  <WEDataSource>0</WEDataSource>
+  <WELastRegion>Республика Марий Эл</WELastRegion>
+  <BGLogin />
+  <BGPwd />
+  <BGCampainID>123456789</BGCampainID>
+  <BGAuctionParseMode>false</BGAuctionParseMode>
+  <RamblerLogin />
+  <RamblerPwd />
+  <VKLogin>gendalf.w@gmail.com</VKLogin>
+  <VKPwd>2wpendalf0</VKPwd>
+  <ParseLevel>2</ParseLevel>
+  <ParseLevelSuggests>0</ParseLevelSuggests>
+  <ParseLevelAdstat>0</ParseLevelAdstat>
+  <ParseLevelLI>0</ParseLevelLI>
+  <TimeoutLowBound>2800</TimeoutLowBound>
+  <TimeoutHighBound>4000</TimeoutHighBound>
+  <TimeoutLowBoundSuggests>10</TimeoutLowBoundSuggests>
+  <TimeoutHighBoundSuggests>100</TimeoutHighBoundSuggests>
+  <TimeoutLowBoundLI>1000</TimeoutLowBoundLI>
+  <TimeoutHighBoundLI>3000</TimeoutHighBoundLI>
+  <TimeoutLowBoundVK>1500</TimeoutLowBoundVK>
+  <TimeoutHighBoundVK>3000</TimeoutHighBoundVK>
+  <PagesToParse>1</PagesToParse>
+  <PagesToParseAdstat>1</PagesToParseAdstat>
+  <Retry>3</Retry>
+  <WordsBorder>5000</WordsBorder>
+  <FreqToParseLowBound>1</FreqToParseLowBound>
+  <FreqToParseLowBoundAdstat>0</FreqToParseLowBoundAdstat>
+  <FreqToParseHighBound>9000000</FreqToParseHighBound>
+  <FreqToParseHighBoundAdstat>9000000</FreqToParseHighBoundAdstat>
+  <UseProxy>false</UseProxy>
+  <ProxyTable>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ProxyTable" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ProxyTable">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="IsChecked" type="xs:boolean" minOccurs="0" />
+                  <xs:element name="Сервер" type="xs:string" minOccurs="0" />
+                  <xs:element name="Порт" type="xs:string" minOccurs="0" />
+                  <xs:element name="Логин" type="xs:string" minOccurs="0" />
+                  <xs:element name="Пароль" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ProxyTable diffgr:id="ProxyTable1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.169.105</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+        <ProxyTable diffgr:id="ProxyTable2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.165.70</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+        <ProxyTable diffgr:id="ProxyTable3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.169.107</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+        <ProxyTable diffgr:id="ProxyTable4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.169.108</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+        <ProxyTable diffgr:id="ProxyTable5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.169.110</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+        <ProxyTable diffgr:id="ProxyTable6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <IsChecked>true</IsChecked>
+          <Сервер>92.241.169.111</Сервер>
+          <Порт>10001</Порт>
+        </ProxyTable>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ProxyTable>
+  <MainColorA>255</MainColorA>
+  <MainColorR>248</MainColorR>
+  <MainColorG>248</MainColorG>
+  <MainColorB>255</MainColorB>
+  <WSA>255</WSA>
+  <WSR>240</WSR>
+  <WSG>255</WSG>
+  <WSB>240</WSB>
+  <LIA>255</LIA>
+  <LIR>255</LIR>
+  <LIG>250</LIG>
+  <LIB>205</LIB>
+  <WEA>255</WEA>
+  <WER>255</WER>
+  <WEG>240</WEG>
+  <WEB>245</WEB>
+  <SPA>255</SPA>
+  <SPR>240</SPR>
+  <SPG>248</SPG>
+  <SPB>255</SPB>
+  <RKA>255</RKA>
+  <RKR>253</RKR>
+  <RKG>245</RKG>
+  <RKB>230</RKB>
+  <MIA>255</MIA>
+  <MIR>238</MIR>
+  <MIG>238</MIG>
+  <MIB>238</MIB>
+  <YDA>255</YDA>
+  <YDR>241</YDR>
+  <YDG>226</YDG>
+  <YDB>245</YDB>
+  <BGA>65</BGA>
+  <BGR>238</BGR>
+  <BGG>250</BGG>
+  <BGB>231</BGB>
+  <KEIA>130</KEIA>
+  <KEIR>250</KEIR>
+  <KEIG>250</KEIG>
+  <KEIB>100</KEIB>
+  <MaxA>130</MaxA>
+  <MaxR>250</MaxR>
+  <MaxG>250</MaxG>
+  <MaxB>100</MaxB>
+  <AverageA>130</AverageA>
+  <AverageR>250</AverageR>
+  <AverageG>250</AverageG>
+  <AverageB>100</AverageB>
+  <SelectedColorA>50</SelectedColorA>
+  <SelectedColorR>163</SelectedColorR>
+  <SelectedColorG>228</SelectedColorG>
+  <SelectedColorB>166</SelectedColorB>
+  <GraphicsColorA>130</GraphicsColorA>
+  <GraphicsColorR>0</GraphicsColorR>
+  <GraphicsColorG>0</GraphicsColorG>
+  <GraphicsColorB>0</GraphicsColorB>
+  <RAColorA>255</RAColorA>
+  <RAColorR>255</RAColorR>
+  <RAColorG>250</RAColorG>
+  <RAColorB>205</RAColorB>
+  <VKColorA>255</VKColorA>
+  <VKColorR>240</VKColorR>
+  <VKColorG>248</VKColorG>
+  <VKColorB>255</VKColorB>
+  <HoverRowColorA>255</HoverRowColorA>
+  <HoverRowColorR>255</HoverRowColorR>
+  <HoverRowColorG>165</HoverRowColorG>
+  <HoverRowColorB>0</HoverRowColorB>
+</PreferencesData>

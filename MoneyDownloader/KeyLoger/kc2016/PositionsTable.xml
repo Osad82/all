@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xamDataPresenter version="10.3.20103.1003" formatVersion="1,6">
+  <fieldLayouts>
+    <fieldLayout key="PositionsTable" fieldList="Вкл./Выкл.;Boolean, Фраза, Позиция в Яндексе, Страница в Яндексе, Найден по ссылке;Boolean, Позиция в Google, Страница в Google">
+      <fields>
+        <field name="Вкл./Выкл." extendedInfo="Вкл./Выкл.;Boolean" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Фраза" extendedInfo="Фраза" cellWidthAuto="true" cellWidth="162.94333333333336" labelWidthAuto="true" labelWidth="162.94333333333336" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Позиция в Яндексе" extendedInfo="Позиция в Яндексе" cellWidth="150" labelWidth="150" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Страница в Яндексе" extendedInfo="Страница в Яндексе" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Найден по ссылке" extendedInfo="Найден по ссылке;Boolean" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Позиция в Google" extendedInfo="Позиция в Google" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+        <field name="Страница в Google" extendedInfo="Страница в Google" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" />
+      </fields>
+    </fieldLayout>
+  </fieldLayouts>
+</xamDataPresenter>

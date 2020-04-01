@@ -1,0 +1,3 @@
+Nov 21 21:22:56.444 [warn] Path for GeoIPFile (<default>) is relative and will resolve to C:\tor\Tor\<default>. Is this what you wanted?
+Nov 21 21:22:56.445 [warn] Path for GeoIPv6File (<default>) is relative and will resolve to C:\tor\Tor\<default>. Is this what you wanted?
+16:C9B10A4E2F0AC853601764621CA34B8FBE3D6A02C60FA0A99B8829CE0D

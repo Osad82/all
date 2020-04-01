@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xamDataPresenter version="10.3.20103.1003" formatVersion="1,6">
+  <fieldLayouts>
+    <fieldLayout key="MainTable" fieldList="Вкл./Выкл.;Boolean, Фраза, Источник, Частотность;Int64, Частотность \\\&quot; \\\&quot;;Int64, Частотность \\\&quot;!\\\&quot;;Int64, Сезон., Ya;Double, G;Double, R;Double, M;Double, Другие ПС;Double, Adstat первая;Int64, Adstat все;Int64, Гео зав. [WE], Срок продв. [WE], Бюджет [WE];Int32, Переходы [WE];Int32, CPC руб. [WE];Double, Бюджет [SP];Int32, Переходы [SP];Int32, CPC руб. [SP];Double, Анкоров [SP];Int32, Бюджет [RK];Int32, Коммерческий [RK], Геозав. [RK], Стратегия [RK], Бюджет [MI];Int32, Переходы LI [MI];Int32, Категория [MI], Макс. бюджет;Double, Сред. бюджет;Double, Бюджет [YD];Double, Переходы [YD];Int32, CRT [YD];Double, Показы [YD];Int32, CPC [YD];Double, Макс. ставка руб. [BG];Double, 1-е место руб. [BG];Double, Средняя цена руб. [BG];Double, Конкуренция по Яндексу;Int64, Конкуренция по Google;Int64, Конкуренция по Mail;Int64, Морд по Яндексу;Int32, Морд по Google;Int32, Морд по Mail;Int32, Титлов по Яндексу;Int32, Титлов по Google;Int32, Титлов по Mail;Int32, KEI;Decimal, KEI 2;Decimal, Кол-во людей [ВК];Int64, Кол-во групп [ВК];Int64">
+      <sortedFields>
+        <sortedField extendedInfo="Вкл./Выкл.;Boolean" direction="Descending" fieldName="Вкл./Выкл." isGroupBy="false" />
+      </sortedFields>
+      <fields>
+        <field name="Вкл./Выкл." extendedInfo="Вкл./Выкл.;Boolean" FixedLocation="FixedToNearEdge" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="1" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Фраза" extendedInfo="Фраза" FixedLocation="FixedToNearEdge" cellWidth="262" labelWidth="262" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="0" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Источник" extendedInfo="Источник" cellWidth="26" labelWidth="26" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="2" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Частотность" extendedInfo="Частотность;Int64" cellWidth="129" labelWidth="129" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="3" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Частотность &quot; &quot;" extendedInfo="Частотность \&quot; \&quot;;Int64" cellWidth="163" labelWidth="163" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="4" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Частотность &quot;!&quot;" extendedInfo="Частотность \&quot;!\&quot;;Int64" cellWidth="183" labelWidth="183" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="5" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Сезон." extendedInfo="Сезон." Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="6" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Ya" extendedInfo="Ya;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="7" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="G" extendedInfo="G;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="8" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="R" extendedInfo="R;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="9" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="M" extendedInfo="M;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="10" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Другие ПС" extendedInfo="Другие ПС;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="11" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Adstat первая" extendedInfo="Adstat первая;Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="12" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Adstat все" extendedInfo="Adstat все;Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="13" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Гео зав. [WE]" extendedInfo="Гео зав. [WE]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="14" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Срок продв. [WE]" extendedInfo="Срок продв. [WE]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="15" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Бюджет [WE]" extendedInfo="Бюджет [WE];Int32" cellWidth="171" labelWidth="171" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="16" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Переходы [WE]" extendedInfo="Переходы [WE];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="17" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="CPC руб. [WE]" extendedInfo="CPC руб. [WE];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="18" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Бюджет [SP]" extendedInfo="Бюджет [SP];Int32" cellWidth="142" labelWidth="142" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="19" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Переходы [SP]" extendedInfo="Переходы [SP];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="20" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="CPC руб. [SP]" extendedInfo="CPC руб. [SP];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="21" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Анкоров [SP]" extendedInfo="Анкоров [SP];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="22" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Бюджет [RK]" extendedInfo="Бюджет [RK];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="23" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Коммерческий [RK]" extendedInfo="Коммерческий [RK]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="24" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Геозав. [RK]" extendedInfo="Геозав. [RK]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="25" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Стратегия [RK]" extendedInfo="Стратегия [RK]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="26" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Бюджет [MI]" extendedInfo="Бюджет [MI];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="27" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Переходы LI [MI]" extendedInfo="Переходы LI [MI];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="28" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Категория [MI]" extendedInfo="Категория [MI]" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="29" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Макс. бюджет" extendedInfo="Макс. бюджет;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="30" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Сред. бюджет" extendedInfo="Сред. бюджет;Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="31" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Бюджет [YD]" extendedInfo="Бюджет [YD];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="32" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Переходы [YD]" extendedInfo="Переходы [YD];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="33" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="CRT [YD]" extendedInfo="CRT [YD];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="34" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Показы [YD]" extendedInfo="Показы [YD];Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="35" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="CPC [YD]" extendedInfo="CPC [YD];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="36" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Макс. ставка руб. [BG]" extendedInfo="Макс. ставка руб. [BG];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="37" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="1-е место руб. [BG]" extendedInfo="1-е место руб. [BG];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="38" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Средняя цена руб. [BG]" extendedInfo="Средняя цена руб. [BG];Double" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="39" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Конкуренция по Яндексу" extendedInfo="Конкуренция по Яндексу;Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="40" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Конкуренция по Google" extendedInfo="Конкуренция по Google;Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="41" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Конкуренция по Mail" extendedInfo="Конкуренция по Mail;Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="42" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Морд по Яндексу" extendedInfo="Морд по Яндексу;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="43" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Морд по Google" extendedInfo="Морд по Google;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="44" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Морд по Mail" extendedInfo="Морд по Mail;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="45" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Титлов по Яндексу" extendedInfo="Титлов по Яндексу;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="46" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Титлов по Google" extendedInfo="Титлов по Google;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="47" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Титлов по Mail" extendedInfo="Титлов по Mail;Int32" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="48" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="KEI" extendedInfo="KEI;Decimal" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="49" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="KEI 2" extendedInfo="KEI 2;Decimal" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="50" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Кол-во людей [ВК]" extendedInfo="Кол-во людей [ВК];Int64" cellWidth="178" labelWidth="178" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="51" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+        <field name="Кол-во групп [ВК]" extendedInfo="Кол-во групп [ВК];Int64" Visibility="Visible" IgnoreFieldVisibilityOverrides="false" row="0" column="52" rowSpan="1" columnSpan="1" isCollapsedInLayout="false" />
+      </fields>
+    </fieldLayout>
+  </fieldLayouts>
+</xamDataPresenter>
