@@ -35,6 +35,7 @@ class MainWindow(QMainWindow):
 				break
 			j += 1
 
+
 if __name__ == "__main__":
 	app = QApplication(sys.argv)
 	mw = MainWindow()
