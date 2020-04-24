@@ -10,7 +10,7 @@ import telebot
 from toolbox import *
 
 
-bot = telebot.TeleBot('979495669:AAGw92_pC3Wf_lruyVC_ganYndDddokf9Yo')
+bot = telebot.TeleBot('hui')
 warns_max = 3
 menu = '☕️☕️☕️☕️☕️\nЭспрессо 14/22\nАмерикано 14/24\nКапучино 23/25/28\nЛатте 24/28/32\nРаф 30/37/45' + \
 							'\nКакао 20/25/30\nФлэт Уайт 35\nЧай 15\nГорячий шоколад 23/28/33\n☕️☕️☕️☕️☕️'
