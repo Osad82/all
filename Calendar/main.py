@@ -1,4 +1,4 @@
-# Caledar bu de_jure
+# Caledar by de_jure
 # 24.04.2020 - **.**.****
 
 from datetime import datetime
@@ -38,10 +38,8 @@ class MainWindow(QMainWindow):
 					btn = QPushButton(str(buttons_days.pop(0)), self)
 					btn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
 					grid_layout.addWidget(btn, j, i)
-				except:
-					break
-			if buttons_days == []:
-				break
+				except: break
+			if buttons_days == []: break
 			j += 1
 		plainText = QPlainTextEdit() # Создание TextInput'a
 		plainText.setPlaceholderText('Text')
