@@ -1,4 +1,4 @@
 class Configuration(object):
     DEBUG = True
-    # тут ппц
-    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root@localhost/test1'
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:@134.249.121.210/jure_test'
