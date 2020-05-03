@@ -1,3 +1,5 @@
+#C:\> <venv>\Scripts\activate.bat
+
 from app import app
 import view
 
